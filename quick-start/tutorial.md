@@ -88,13 +88,23 @@ You do not need to configure Funcraft unless you want to use a different account
 
 ## Step 4: Invoke the function
 
-Run the following command locally to debug the function:
+1. Run the following command to invoke the function and you should see `hello world` returned by the function:
 
     ```bash
     fun invoke demo
     ```
 
+## Step 5: Update the function
 
+1. Open <tutorial-editor-open-file filePath="fc-tutorials/demo/index.js"> index.js </tutorial-editor-open-file> file and change `hello world` to `hello world from function compute`.
 
+2. Run the following command to deploy the function:
+    ```bash
+    fun deploy
+    ```
 
+3. Run the following command to invoke the function and now you should see `hello world from function compute`:
 
+    ```bash
+    fun invoke demo
+    ```
