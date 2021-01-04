@@ -6,9 +6,9 @@ This topic describes how to create a function in Function Compute by using Funcr
 
 ## Prerequisites
 
-* [Activate the Function Compute service](t1880966.html#multiTask782/section-938-43e-c63)
+* [Activate the Function Compute service](https://www.alibabacloud.com/help/doc-detail/51783.htm#section-938-43e-c63)
 
-* You have [installed the command-line tool Fun](https://github.com/alibaba/funcraft/blob/master/docs/usage/installation-zh.md?spm=a2c4g.11186623.2.16.4cc918b1zLFgpb&file=installation-zh.md).
+* You have [installed the command-line tool Fun](https://github.com/alibaba/funcraft/blob/master/docs/usage/installation.md).
 
 ---
 **NOTE**
@@ -40,7 +40,7 @@ You do not need to configure Funcraft unless you want to use a different account
    **Note** You can obtain your Alibaba Cloud account ID from [Account Management](https://account.console.aliyun.com/) and AccessKey ID and AccessKey Secret from [User Management](https://usercenter.console.aliyun.com/).
    After the configuration is completed, Funcraft saves the configurations to the *.fcli/config.yaml* file in your directory.
 
-   For more information about how to configure Funcraft, see [Configure Funcraft](t1881165.html#concept-2260072).
+   For more information about how to configure Funcraft, see [Configure Funcraft](https://www.alibabacloud.com/help/doc-detail/146702.htm?#concept-2260072).
    
 
 
